@@ -16,4 +16,4 @@ Hopefully I will have time, as I really want to. But it could be awhile, as I'm 
 expecting father and my son Nathan is almost here! So in the meantime, feel free
 to make fun of how crappy the first attempt was, and if you don't think it's crappy, you
 can use my code for any reason as long as you credit me. (For more information, see
-https://github.com/Matt23488/Game-of-Life/blob/master/LICENSE.)
+https://github.com/Matt23488/Game-of-Life/blob/master/LICENSE)
