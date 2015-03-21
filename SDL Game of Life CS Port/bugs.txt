@@ -1,0 +1,14 @@
+Bugs:
+
+CellSize number box triggers an event when first loaded, looks buggy
+Same with delay number box, but there is no visible indication
+clear doesn't always clear the grid visually, after manipulating a structure
+
+TODO:
+
+Add an eraser tool that can erase a portion the user wants (like in mspaint or something). Can use existing code for adding structures, with bool[,] consisting of only false, although we'll need to bypass some stuff because the user doesn't need to confirm
+Add an undo/redo system
+
+Add more complicated variations such as variations with more than 2 states per cell
+
+***Rewrite the SDL part to better incorporate future modifications
